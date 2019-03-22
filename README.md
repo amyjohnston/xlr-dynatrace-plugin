@@ -1,9 +1,9 @@
 # XL Release Dynatrace Plugin
-Note:  this plugin is for Dynatrace AppMom. If you require [Dynatrace OneAgent](https://github.com/xebialabs-community/xlr-dynatrace-oneagent-plugin) please use this link.
+Note: This plugin is for Dynatrace AppMon. If you require Dynatrace OneAgent, please click [here](https://github.com/xebialabs-community/xlr-dynatrace-oneagent-plugin).
 
 
 ## Preface
-This document descripts the functionality provide by the `xlr-dynatrace-plugin`, as well as potential future functionality.
+This document describes the functionality provide by the `xlr-dynatrace-plugin`, as well as potential future functionality.
 
 ## Overview
 In addition to being a monitoring tool, Dynatrace can be used to collect data during testing. This plugin allows users to query Dynatrace's enhanced test results from XL Release to make decisions about whether or not to continue with a release.
